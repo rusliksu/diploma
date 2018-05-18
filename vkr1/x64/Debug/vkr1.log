@@ -1,0 +1,23 @@
+﻿Сборка начата 15.05.2018 23:50:22.
+     1>Проект "c:\Users\Ramilm\documents\visual studio 2015\Projects\vkr1\vkr1\vkr1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\vkr1.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt vkr1.cpp
+         vkr1.cpp
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(19): error C2082: переопределение формального параметра "nodetyp"
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(43): error C2660: tree_genrndsymb: функция не принимает 2 аргументов
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(44): error C2660: tree_genrndsymb: функция не принимает 2 аргументов
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(48): error C2660: tree_genrndsymb: функция не принимает 2 аргументов
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(49): error C2660: tree_genrndsymb: функция не принимает 2 аргументов
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(61): error C2082: переопределение формального параметра "treein"
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(64): error C2561: tree_getsubtree: функция должна возвращать значение
+         c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(59): note:  см. объявление "tree_getsubtree"
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(65): error C3260: ";": пропускаются непредвиденные токены перед телом лямбда-функции
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(70): error C3493: "treein" нельзя передать неявно, поскольку не задан режим передачи по умолчанию
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(70): error C3493: "vin" нельзя передать неявно, поскольку не задан режим передачи по умолчанию
+     1>c:\users\ramilm\documents\visual studio 2015\projects\vkr1\vkr1\vkr1.cpp(88): fatal error C1004: непредвиденное обнаружение конца файла
+     1>Сборка проекта "c:\Users\Ramilm\documents\visual studio 2015\Projects\vkr1\vkr1\vkr1.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.96

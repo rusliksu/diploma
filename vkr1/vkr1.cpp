@@ -142,7 +142,7 @@ Tree tree_mutate(Tree treein, int *symbols[])
 		}
 }
 
-void main()
+void main()dsadsasadsda
 {
 
 }

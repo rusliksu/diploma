@@ -144,6 +144,16 @@ Tree tree_mutate(Tree treein, int *symbols[])
 
 void main()dsadsasadsda
 {
+	κοκοσκόο
+		ησκόυη
+		σκfdfgd
+		sd
+		fds
+		f
+		sdf
+		sd
 
+		θσυθσ
+		υη
 }
 
